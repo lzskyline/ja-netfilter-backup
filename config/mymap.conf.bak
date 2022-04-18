@@ -1,0 +1,4 @@
+[MyMap]
+EQUAL,licenseeName->LzSkyline
+EQUAL,gracePeriodDays->30
+EQUAL,paidUpTo->2023-12-31

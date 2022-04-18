@@ -1,0 +1,6 @@
+c73b401d015517434686adba26f8c4952bac0ce7  ja-netfilter.jar
+4e8693b5a7a3837cf7f6db0c4f1316f376d34721  plugins/dns.jar
+b1bebbee8d98218db5794f596001b8b7427ae0c7  plugins/url.jar
+5094ec1a23f0366fa9f37a81840057e557fad9d7  plugins/hideme.jar
+26ee7577969265ff77a7fd786bcb707fe21a3d6b  plugins/power.jar
+229dd5a5de89bd6fe5fbf5f0c2768895802d7127  plugins/native.jar
